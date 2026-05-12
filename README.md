@@ -2,7 +2,7 @@
 
 # `JKF` - JK FlipFlop Board
 
-The `JKF` is a board with an [CD4027](#additional-information) or any other dual `JK-FlipFlop`. The board itself can be driven with a voltage from `5-15V`. The board offers the possibility to create logic circuits driven by buttons, switches or any other logic board.
+The `JKF` is a board with an [CD4027](#additional-information) or any other dual `JK-FlipFlop` that meets the pin requirements. The board itself can be driven from `5` to `15V`. The board offers the possibility to create logic circuits driven by buttons, switches or any other logic board.
 
 | Experience  | Level                                                                               |
 |:------------|:-----------------------------------------------------------------------------------:|
